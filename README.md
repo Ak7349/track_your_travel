@@ -1,16 +1,16 @@
 # track_your_travel
 
-# downlod
+downlod
 
-# npm i
+npm i
   to install nessasary modules
 
-# npm app.js
+npm app.js
 
-# Modify the DataBase details
+Modify the DataBase details
   to work in your local evironment
 
-# Optional
-  # Remove the DB and store user data in array.
+Optional
+ Remove the DB and store user data in array.
 
 
