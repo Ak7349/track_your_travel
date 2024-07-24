@@ -1,6 +1,6 @@
 # track_your_travel
 
-downlod
+downlod the entire code file
 
 $ npm i
   -- to install nessasary modules
