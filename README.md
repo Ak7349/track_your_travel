@@ -8,7 +8,7 @@ $ npm i
 Modify the DataBase details -- 
   to work in your local evironment
 
-$ npm app.js -- start thr application
+$ npm app.js -- start the application
 
 Optional
  Remove the DB and store user data in array.
