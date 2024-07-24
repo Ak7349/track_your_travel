@@ -3,7 +3,7 @@
 downlod
 
 $ npm i
-  to install nessasary modules
+  -- to install nessasary modules
 
 $ npm app.js
 
